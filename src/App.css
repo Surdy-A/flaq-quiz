@@ -20,4 +20,20 @@
   
   }
 
+  .footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  }
+
+  .flagImage{
+    width: 686px;
+    height: 250px;
+  }
+
+}
+
+.box{
+  font-size: 16px;
+  margin-left: 10px;
 }
