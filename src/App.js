@@ -6,7 +6,6 @@ import Progress from './components/progress'
 function App() {
   return (
     <div>
-     <AppBar />
     <Progress />
     </div>
   );
